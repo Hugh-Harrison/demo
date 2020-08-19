@@ -6,4 +6,4 @@
 difftool test
 
 new lines
-whats the worse that  could happen
+this will cause trouble
