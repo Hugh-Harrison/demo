@@ -6,4 +6,4 @@
 difftool test
 
 new lines
-changes on updates branch
+this will cause trouble
