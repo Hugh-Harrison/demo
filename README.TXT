@@ -4,3 +4,5 @@
 \n just some updates
 
 difftool test
+
+new lines
